@@ -1,0 +1,9 @@
+rasterio
+matplotlib
+numpy
+jupyter
+kaggle
+ipykernel
+fiona
+folium
+fastkml

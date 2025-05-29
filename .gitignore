@@ -1,0 +1,10 @@
+/docs
+/node_modules
+.env
+/venv
+.ipynb_checkpoints
+checkpoint2_run.log
+LiDAR_01.qgz
+data/gedi
+data/lidar
+data/terrabrasilis/prodes_amazonia_nb.gpkg
