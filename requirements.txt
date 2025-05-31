@@ -7,3 +7,8 @@ ipykernel
 fiona
 folium
 fastkml
+mss
+geemap
+selenium
+openai
+dotenv
